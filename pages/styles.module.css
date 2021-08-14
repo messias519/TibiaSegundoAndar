@@ -1,0 +1,40 @@
+.root {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.header {
+  font-family: Teko, "Teko";
+  font-size: 2em;
+  text-align: center;
+}
+
+.menu {
+}
+
+.listaServidores {
+  margin: 30px 30px 30px 30px;
+  padding: 20px;
+}
+
+.listaServidorNomes {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.listaCidades {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.listaCasas {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 10px;
+  border: 1px solid black;
+}
